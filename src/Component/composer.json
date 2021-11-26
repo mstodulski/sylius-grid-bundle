@@ -1,5 +1,5 @@
 {
-    "name": "sylius/grid",
+    "name": "mstodulski/sylius-grid",
     "type": "library",
     "description": "PHP library to handle building grid of objects with fields and filters support.",
     "keywords": [
@@ -30,7 +30,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "sylius-labs/polyfill-symfony-event-dispatcher": "^1.0",
-        "sylius/registry": "^1.5",
+        "mstodulski/sylius-registry": "8.*",
         "symfony/config": "^4.4 || ^5.3",
         "symfony/deprecation-contracts": "^2.2",
         "symfony/event-dispatcher": "^4.4 || ^5.3",
